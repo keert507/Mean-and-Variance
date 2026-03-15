@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
 Ex no:
 
-DATE:
+DATE:29.01.2026
 
 NAME :KEERTHANA T
 
