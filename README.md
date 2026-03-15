@@ -1,5 +1,11 @@
 #  Mean and variance of a discrete  distribution
+Ex no:
 
+DATE:
+
+NAME :KEERTHANA T
+
+REGISTER NO:212224100031
 
 # Aim : 
 
@@ -48,10 +54,14 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+<img width="870" height="567" alt="image" src="https://github.com/user-attachments/assets/f5b29145-143c-4f30-a810-7a07e4aed5ca" />
+
 
 
 
 # Output : 
+<img width="691" height="118" alt="image" src="https://github.com/user-attachments/assets/f516da9e-406a-493a-a8e8-294204ef8b7f" />
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
